@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/skills/js.png",
+    "title": "JavaScript",
+    "experience": "5 Years"
+  },
+  {
+    "id": 2,
+    "thumb": "/images/skills/react.png",
+    "title": "React",
+    "experience": "2 Years"
+  },
+  {
+    "id": 3,
+    "thumb": "/images/skills/html.png",
+    "title": "HTML",
+    "experience": "5 Years"
+  },
+  {
+    "id": 4,
+    "thumb": "/images/skills/css.png",
+    "title": "CSS",
+    "experience": "5 Years"
+  },
+  {
+    "id": 5,
+    "thumb": "/images/skills/sass.png",
+    "title": "SASS",
+    "experience": "4 Years"
+  },
+  {
+    "id": 6,
+    "thumb": "/images/skills/redux.png",
+    "title": "Redux",
+    "experience": "1 Year"
+  },
+  {
+    "id": 7,
+    "thumb": "/images/skills/jest.png",
+    "title": "Jest",
+    "experience": "2 Years"
+  },
+  {
+    "id": 8,
+    "thumb": "/images/skills/node.png",
+    "title": "Node",
+    "experience": "2 Years"
+  },
+  {
+    "id": 9,
+    "thumb": "/images/skills/git.png",
+    "title": "Git",
+    "experience": "4 Years"
+  },
+  {
+    "id": 10,
+    "thumb": "/images/skills/Vue.png",
+    "title": "Vue",
+    "experience": "1 Year"
+  },
+  {
+    "id": 11,
+    "thumb": "/images/skills/wordpress.png",
+    "title": "Wordpress",
+    "experience": "4 Years"
+  },
+  {
+    "id": 12,
+    "thumb": "/images/skills/typescript.png",
+    "title": "TypeScript",
+    "experience": "1 Year"
+  }
+]

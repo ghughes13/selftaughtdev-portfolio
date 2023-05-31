@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "fromtext": "American Express",
+    "from": "/images/icon/amexLogo.png",
+    "description": "“Garrett is a go-getter with strong knowledge of JavaScript and React who is able to pick up any task given to him. In the about a year that I got to be his senior, I was consistently impressed with his ability to take on new tasks and also know the right questions to ask to find the best possible solution to any problem. He is a quick learner who I never needed to follow up on any task with as he followed up proactively with me when he ran into any issues. Overall, I think Garrett would be an excellent addition to any team or solo situation and I would be comfortable providing my recommendation for him for any position.”",
+    "authorimg": "https://media.licdn.com/dms/image/C5603AQEIdUALkJzxIw/profile-displayphoto-shrink_100_100/0/1655245029013?e=1691020800&v=beta&t=N3kqe3LJBEggq_afdljqeFtsiA1fYaj_NwTcg62aeSM",
+    "authorname": "Ashley Krueger",
+    "authordesig": "Senior Engineer II"
+  },
+  {
+    "id": 2,
+    "fromtext": "American Express",
+    "from": "/images/icon/amexLogo.png",
+    "description": "“ Having worked with Garrett for over a year I would highly recommend him for any position. He requires no supervision and automatically takes on the required work without prompt. He asks the required questions and speaks up when needed to provide the best possible solution to the problem that is presented to him. He works well in both solo situation as well as part of a larger team. His professionalism makes him one of the easiest employees I have ever had the privilege to work with and would be an amazing asset to any team.”",
+    "authorimg": "https://media.licdn.com/dms/image/C5603AQGR3CnvB3uJPQ/profile-displayphoto-shrink_100_100/0/1517461117078?e=1691020800&v=beta&t=1x1zpOqGy6l_d3BdWTH_mGnYkygkLSccdAl5aAoDzCM",
+    "authorname": "Harrison Barlow",
+    "authordesig": "Senior Engineering Manager"
+  },
+  {
+    "id": 3,
+    "fromtext": "American Express",
+    "from": "/images/icon/amexLogo.png",
+    "description": "“Garrett came on to our team and quickly exceeded our expectations. He hit the ground running and has an extensive knowledge of JavaScript and React making working with him very easy. He needs no micromanagement, is a quick learner and has good leadership/initiative which has been a big help on our team. Overall, Garrett is a great addition to any team.”",
+    "authorimg": "https://media.licdn.com/dms/image/C5103AQFK22RUC1Yo8w/profile-displayphoto-shrink_100_100/0/1516860765418?e=1691020800&v=beta&t=f8iyvwcPGy5_aZFi1iFWmtax9DLAg5p6xiMvAZVrDVc",
+    "authorname": "Juan Rojas",
+    "authordesig": "Engineer I"
+  }
+]

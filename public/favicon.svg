@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="Group_35" data-name="Group 35" transform="translate(-3172 -862)">
+    <g id="Group_17" data-name="Group 17" transform="translate(3172 812)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0 50)">
+        <g id="Group_18" data-name="Group 18">
+          <rect id="Mask_Group_1" data-name="Mask Group 1" width="300" height="300" fill="none" style="mix-blend-mode: darken;isolation: isolate"/>
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="300" height="300" fill="none" opacity="0.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="SelfTaughtDev_logo" data-name="SelfTaughtDev logo" transform="translate(3185.072 926.165)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M158.7,570.6l-45.035-46.274L158.7,477.84h36.565l-45.242,46.483L195.266,570.6Z" transform="translate(-113.666 -437.628)" fill="#3bb99b"/>
+        <path id="Path_15" data-name="Path 15" d="M896.157,444.536l-55.984,171.67h-28.1l55.984-171.67Z" transform="translate(-706.796 -444.536)" fill="#3bb99b"/>
+        <path id="Path_16" data-name="Path 16" d="M850.39,477.841h36.361l45.242,46.484L886.749,570.6H850.388l45.035-46.276Z" transform="translate(-658.137 -437.629)" fill="#3bb99b"/>
+      </g>
+    </g>
+  </g>
+</svg>

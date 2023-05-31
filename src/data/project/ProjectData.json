@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "image": "/images/project/HoneyCrm.png",
+    "title": "Honey CRM Website",
+    "category": ["Website"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS.",
+    "github": "https://github.com/ghughes13/honey-CRM",
+    "demo": "https://glasshive.com/",
+    "body": []
+  },
+  {
+    "id": 2,
+    "image": "/images/project/SynthDigital.png",
+    "title": "SynthDigital",
+    "category": ["Website", "Freelance"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt SynthDigital's website in React with Gatsby.js and Netlify CMS.",
+    "github": "https://github.com/synthdigital/logan-portfolio-update",
+    "demo": "https://synthdigital.com/",
+    "body": []
+  },
+  {
+    "id": 3,
+    "image": "/images/project/BookOrganizationApp.png",
+    "title": "Book Organization App",
+    "category": ["Practice Project"],
+    "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A book organization app (Similar to Google's GoodReads) built with React and Redux during my React Nano Degree program at Udacity.",
+    "github": "https://github.com/ghughes13/Book-Tracker-App",
+    "demo": "https://362lx.csb.app/",
+    "body": []
+  },
+  {
+    "id": 4,
+    "image": "/images/project/ReactToDoApp.png",
+    "title": "React ToDo App",
+    "category": ["Practice Project"],
+    "techStack": ["React", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A MERN stack ToDo list app and an API (https://github.com/ghughes13/API)  that will store your ToDo list items in a MongoDB database. There is no current demo for this project, and it needs to be redeployed.",
+    "github": "https://github.com/ghughes13/react-todo-list",
+    "demo": "",
+    "body": []
+  },
+  {
+    "id": 5,
+    "image": "/images/project/WouldYouRather.png",
+    "title": "Would You Rather",
+    "category": ["Practice Project"],
+    "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A would you rather game app built with React and Redux during my rect nano degree program at Udacity.",
+    "github": "https://github.com/ghughes13/would-you-rather",
+    "demo": "https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js",
+    "body": []
+  },
+  {
+    "id": 6,
+    "image": "/images/project/TikTakToe.png",
+    "title": "Tic-Tak-Toe",
+    "category": ["Practice Project"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "A Tic-Tak-Toe app built with vanilla JavaScript, CSS and HTML",
+    "github": "https://github.com/ghughes13/tic-tac-toe",
+    "demo": "https://m9tx7.csb.app/",
+    "body": []
+  },
+  {
+    "id": 7,
+    "image": "/images/project/project-5.png",
+    "title": "Paginating Student List",
+    "category": ["Practice Project"],
+    "techStack": ["React", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+    "github": "https://github.com/ghughes13/Pagination-Page",
+    "demo": "https://jv1ix.csb.app/",
+    "body": []
+  },
+  {
+    "id": 8,
+    "image": "/images/project/project-6.png",
+    "title": "TRIDigital",
+    "category": ["Website"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt TRIDigital's website in React with Gatsby.js and Netlify CMS. (No longer active site)",
+    "github": "https://github.com/ghughes13/Tridigital",
+    "demo": "",
+    "body": []
+  }
+]
