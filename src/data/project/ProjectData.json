@@ -2,10 +2,10 @@
   {
     "id": 1,
     "image": "/images/project/HoneyCrm.png",
-    "title": "Honey CRM Website",
-    "category": ["Website"],
+    "title": "Honey CRM",
+    "category": ["Websites", "TRIDigital"],
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
-    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS.",
+    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS. This is still a live project and they have made some changes since I left.",
     "github": "https://github.com/ghughes13/honey-CRM",
     "demo": "https://glasshive.com/",
     "body": []
@@ -14,7 +14,7 @@
     "id": 2,
     "image": "/images/project/SynthDigital.png",
     "title": "SynthDigital",
-    "category": ["Website", "Freelance"],
+    "category": ["Websites", "Freelance"],
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
     "excerpt": "Rebuilt SynthDigital's website in React with Gatsby.js and Netlify CMS.",
     "github": "https://github.com/synthdigital/logan-portfolio-update",
@@ -23,9 +23,68 @@
   },
   {
     "id": 3,
+    "image": "/images/project/redrock.webp",
+    "title": "RedRock",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called RedRock IS. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. This is still a live site and they have made very minor changes since I developed it.",
+    "demo": "https://www.redrockis.com/"
+  },
+  {
+    "id": 4,
+    "image": "/images/project/compas.webp",
+    "title": "Compass MPS",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called Compass MSP. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is active, but they have made changes to it after I left, so take it with a grain of salt.",
+    "demo": "https://compassmsp.com/"
+  },
+  {
+    "id": 5,
+    "image": "/images/project/pcnet.webp",
+    "title": "PC Net",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called PC Net. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is active, but they have made changes to it after I left, so take it with a grain of salt.",
+    "demo": "https://pcnetinc.com/"
+  },
+  {
+    "id": 6,
+    "image": "/images/project/fidelus.webp",
+    "title": "Fidelus",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called Fidelus. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
+  },
+  {
+    "id": 7,
+    "image": "/images/project/becca.webp",
+    "title": "Becca Corp",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called Becca Corp. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
+  },
+  {
+    "id": 8,
+    "image": "/images/project/Ripple.webp",
+    "title": "Ripple IT",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called Ripple IT. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
+  },
+  {
+    "id": 9,
+    "image": "/images/project/twinstate.webp",
+    "title": "TwinState",
+    "category": ["Websites", "TRIDigital"],
+    "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
+    "excerpt": "This is a site I built during my time at TRIDigital for a company called TwinState Technologies. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
+  },
+  {
+    "id": 10,
     "image": "/images/project/BookOrganizationApp.png",
-    "title": "Book Organization App",
-    "category": ["Practice Project"],
+    "title": "GoodReads Clone",
+    "category": ["Practice Projects"],
     "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
     "excerpt": "A book organization app (Similar to Google's GoodReads) built with React and Redux during my React Nano Degree program at Udacity.",
     "github": "https://github.com/ghughes13/Book-Tracker-App",
@@ -33,10 +92,10 @@
     "body": []
   },
   {
-    "id": 4,
+    "id": 11,
     "image": "/images/project/ReactToDoApp.png",
     "title": "React ToDo App",
-    "category": ["Practice Project"],
+    "category": ["Practice Projects"],
     "techStack": ["React", "JavaScript", "HTML", "CSS"],
     "excerpt": "A MERN stack ToDo list app and an API (https://github.com/ghughes13/API)  that will store your ToDo list items in a MongoDB database. There is no current demo for this project, and it needs to be redeployed.",
     "github": "https://github.com/ghughes13/react-todo-list",
@@ -44,10 +103,10 @@
     "body": []
   },
   {
-    "id": 5,
+    "id": 12,
     "image": "/images/project/WouldYouRather.png",
     "title": "Would You Rather",
-    "category": ["Practice Project"],
+    "category": ["Practice Projects"],
     "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
     "excerpt": "A would you rather game app built with React and Redux during my rect nano degree program at Udacity.",
     "github": "https://github.com/ghughes13/would-you-rather",
@@ -55,10 +114,10 @@
     "body": []
   },
   {
-    "id": 6,
+    "id": 13,
     "image": "/images/project/TikTakToe.png",
     "title": "Tic-Tak-Toe",
-    "category": ["Practice Project"],
+    "category": ["Practice Projects"],
     "techStack": ["JavaScript", "HTML", "CSS"],
     "excerpt": "A Tic-Tak-Toe app built with vanilla JavaScript, CSS and HTML",
     "github": "https://github.com/ghughes13/tic-tac-toe",
@@ -66,10 +125,10 @@
     "body": []
   },
   {
-    "id": 7,
+    "id": 14,
     "image": "/images/project/project-5.png",
-    "title": "Paginating Student List",
-    "category": ["Practice Project"],
+    "title": "Paginating List",
+    "category": ["Practice Projects"],
     "techStack": ["React", "JavaScript", "HTML", "CSS"],
     "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
     "github": "https://github.com/ghughes13/Pagination-Page",
@@ -77,10 +136,10 @@
     "body": []
   },
   {
-    "id": 8,
+    "id": 15,
     "image": "/images/project/project-6.png",
     "title": "TRIDigital",
-    "category": ["Website"],
+    "category": ["Websites"],
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
     "excerpt": "Rebuilt TRIDigital's website in React with Gatsby.js and Netlify CMS. (No longer active site)",
     "github": "https://github.com/ghughes13/Tridigital",

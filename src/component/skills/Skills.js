@@ -16,7 +16,7 @@ const Skills = () => {
         </div>
         <div className="row">
           {allData.map((data) => (
-            <div className="col-xl-3 col-sm-6" key={data.id}>
+            <div className="col-xl-2 col-sm-6" key={data.id}>
               <div className="team-grid">
                 <div className="thumbnail">
                   <img src={process.env.PUBLIC_URL + data.thumb} alt={data.title} />

@@ -13,6 +13,7 @@ import ProjectDetails from "./pages/ProjectDetails";
 // Pages
 // import AboutMe from "./pages/AboutMe";
 import Typography from "./pages/Typography";
+import Testimonials from "./pages/Testimonials";
 // import Contact from "./pages/Contact";
 import ErrorPage from "./pages/404";
 import ComingSoon from "./pages/ComingSoon";
@@ -36,6 +37,7 @@ const App = () => {
           {/* Pages  */}
           <Route path={process.env.PUBLIC_URL + "/about-me"} element={<ComingSoon />} />
           <Route path={process.env.PUBLIC_URL + "/typography"} element={<Typography />} />
+          <Route path={process.env.PUBLIC_URL + "/recommendations"} element={<Testimonials />} />
           <Route path={process.env.PUBLIC_URL + "/contact"} element={<ComingSoon />} />
           <Route path={process.env.PUBLIC_URL + "/404"} element={<ErrorPage />} />
           <Route path={process.env.PUBLIC_URL + "/coming-soon"} element={<ComingSoon />} />

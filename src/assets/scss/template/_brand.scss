@@ -6,6 +6,9 @@
 }
 .brand-grid {
     padding: 10px 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
     img {
         filter: grayscale(100%);
         opacity: 0.3;

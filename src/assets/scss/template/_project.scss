@@ -2,16 +2,20 @@
    Project
 -------------------------*/
 .project-grid {
-    box-shadow: 0 55px 86px -35px #ECF2F6;
+    box-shadow: 30px 50px 60px -35px #666666d6;
     border-radius: 30px;
     margin-bottom: 40px;
+    transition-duration: 1s;
+    &:hover {
+        box-shadow: 0px 0px 60px -35px #666666d6;
+    }
+    a {
+        width: 100%;
+    }
     .thumbnail {
         overflow: hidden;
         border-radius: 30px 30px 0 0;
         position: relative;
-        a {
-            width: 100%;
-        }
         img {
             border-radius: 30px 30px 0 0;
             width: 100%;

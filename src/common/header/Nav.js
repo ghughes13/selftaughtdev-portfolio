@@ -102,9 +102,6 @@ const Nav = () => {
               <Link to={process.env.PUBLIC_URL + "/testimonials"}>Testimonial</Link>
             </li>
             <li>
-              <Link to={process.env.PUBLIC_URL + "/pricing-table"}>Pricing Table</Link>
-            </li>
-            <li>
               <Link to={process.env.PUBLIC_URL + "/typography"}>Typography</Link>
             </li>
             <li>

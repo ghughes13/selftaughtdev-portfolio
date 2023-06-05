@@ -2,19 +2,25 @@ import React from "react";
 import SectionTitle from "../../elements/section-title/SectionTitle";
 import TestimonialPropOne from "./TestimonialPropOne";
 import { FaLinkedinIn, FaYoutube } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const TestimonialTwo = () => {
   return (
     <div className="section section-padding-equal">
       <div className="container">
         <SectionTitle
-          subtitle="Testimonial"
+          subtitle="Recommendations"
           title="Recommendations From Coworkers"
           textAlignment="heading-left"
           textColor=""
         />
         <div className="row">
           <TestimonialPropOne colSize="col-lg-4" itemShow="3" />
+        </div>
+        <div className="more-project-btn">
+          <Link to={process.env.PUBLIC_URL + "/recommendations"} className="axil-btn btn-fill-primary">
+            View More
+          </Link>
         </div>
         <div className="axil-followers">
           <ul className="followers-list list-unstyled">

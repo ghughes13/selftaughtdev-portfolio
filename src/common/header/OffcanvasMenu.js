@@ -18,6 +18,9 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                 <Link to={process.env.PUBLIC_URL + "/project-grid-two"}>Projects</Link>
               </li>
               <li>
+                <Link to={process.env.PUBLIC_URL + "/Recommendations"}>Recommendations</Link>
+              </li>
+              <li>
                 <Link to={process.env.PUBLIC_URL + "/contact"}>Contact Me</Link>
               </li>
             </ul>

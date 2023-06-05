@@ -1,14 +1,10 @@
 import React from "react";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import Footer from "../common/footer/Footer";
 import HeaderThree from "../common/header/HeaderThree";
 import BcrumbBannerTwo from "../elements/breadcrumb/BcrumbBannerTwo";
-import CtaLayoutOne from "../component/cta/CtaLayoutOne";
 import { slugify } from "../utils";
 import ProjectData from "../data/project/ProjectData.json";
-import VideoOne from "../component/video/VideoOne";
-import Accordion from "react-bootstrap/Accordion";
-import { FaCompress, FaCode, FaGlobe } from "react-icons/fa";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import SEO from "../common/SEO";
 

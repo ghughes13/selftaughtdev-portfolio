@@ -8,21 +8,21 @@ const filters = [
     id: 1,
     label: "All Works",
   },
-  // {
-  // id: 2,
-  // label: "Branding",
-  // },
-  // {
-  // id: 3,
-  // label: "Mobile",
-  // }
+  {
+    id: 2,
+    label: "Websites",
+  },
+  {
+    id: 3,
+    label: "Practice Projects",
+  },
 ];
 
 const AllData = ProjectData;
 
 const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
   const [getAllItems] = useState(AllData);
-  const [visiableProject] = useState(itemShow ? itemShow : 6);
+  const [visiableProject] = useState(itemShow ? itemShow : 99);
   const [activeFilter, setActiveFilter] = useState("");
   const [visibleItems, setVisibleItems] = useState([]);
 

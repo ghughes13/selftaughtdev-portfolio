@@ -4,6 +4,7 @@ import SEO from "../common/SEO";
 import BannerThree from "../component/banner/BannerThree";
 import ProjectTwo from "../component/project/ProjectTwo";
 import SectionTitle from "../elements/section-title/SectionTitle";
+import BrandOne from "../component/brand/BrandOne";
 import ColorSwitcher from "../elements/switcher/ColorSwitcher";
 import Skills from "../component/skills/Skills";
 import TestimonialTwo from "../component/testimonial/TestimonialTwo";
@@ -20,7 +21,7 @@ const PersonalPortfolio = () => {
         <BannerThree />
         <ProjectTwo />
         <Skills />
-
+        <BrandOne />
         <TestimonialTwo />
 
         <div className="section-padding bg-color-dark">

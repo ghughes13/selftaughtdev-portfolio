@@ -14,16 +14,27 @@ const BcrumbBannerTwo = ({ title, paragraph, mainThumb, githubLink, demoLink, te
               <p>
                 Built Using: <span dangerouslySetInnerHTML={{ __html: techStack.map((tech) => " " + tech) }}></span>
               </p>
-              <AnimationOnScroll animateIn="slideInUp" duration={1} animateOnce={true} delay={200}>
-                <div className="btn-group">
-                  <a href={githubLink} className="axil-btn btn-fill-primary btn-large">
-                    View The Code
-                  </a>
-                  <a href={demoLink} className="axil-btn btn-fill-primary btn-large m-l-10">
-                    View The Project
-                  </a>
-                </div>
-              </AnimationOnScroll>
+              {githubLink || demoLink ? (
+                <AnimationOnScroll animateIn="slideInUp" duration={1} animateOnce={true} delay={200}>
+                  <div className="btn-group">
+                    {githubLink ? (
+                      <a href={githubLink} className="axil-btn btn-fill-primary btn-large" target="_blank" rel="noreferrer">
+                        View The Code
+                      </a>
+                    ) : null}
+                    {demoLink ? (
+                      <a
+                        href={demoLink}
+                        className="axil-btn btn-fill-primary btn-large m-l-10"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        View The Project
+                      </a>
+                    ) : null}
+                  </div>
+                </AnimationOnScroll>
+              ) : null}
             </div>
           </div>
           <div className="col-lg-6">

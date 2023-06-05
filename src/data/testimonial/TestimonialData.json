@@ -25,5 +25,14 @@
     "authorimg": "https://media.licdn.com/dms/image/C5103AQFK22RUC1Yo8w/profile-displayphoto-shrink_100_100/0/1516860765418?e=1691020800&v=beta&t=f8iyvwcPGy5_aZFi1iFWmtax9DLAg5p6xiMvAZVrDVc",
     "authorname": "Juan Rojas",
     "authordesig": "Engineer I"
+  },
+  {
+    "id": 4,
+    "fromtext": "American Express",
+    "from": "/images/icon/amexLogo.png",
+    "description": "“Garrett is an awesome engineer to work with! He's knowledgeable and enthusiastic about any project he's a part of.”",
+    "authorimg": "https://media.licdn.com/dms/image/C4E03AQFXtQ6oWNDI_Q/profile-displayphoto-shrink_100_100/0/1597690758365?e=1691625600&v=beta&t=kY3HBwcnPt32JO2TzUXoe9hfWLhhQbXCBF4mI7VEZh4",
+    "authorname": "Mecca Whitfield",
+    "authordesig": "Engineer III"
   }
 ]
