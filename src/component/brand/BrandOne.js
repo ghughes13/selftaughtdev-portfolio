@@ -8,7 +8,7 @@ const BrandOne = () => {
       <div className="container">
         <SectionTitle
           subtitle="Open Source"
-          title="Companies I've Contributed To"
+          title="Projects I've Contributed To"
           description=""
           textAlignment="heading-light-left"
           textColor=""

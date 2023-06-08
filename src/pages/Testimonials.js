@@ -12,7 +12,7 @@ import { slugify } from "../utils";
 const allData = TestimonialData;
 
 const Testimonials = () => {
-  const facebookData = allData.filter((data) => slugify(data.fromtext) === "facebook");
+  const otherPlacesData = allData.filter((data) => slugify(data.fromtext) !== "american-express");
   const amexData = allData.filter((data) => slugify(data.fromtext) === "american-express");
   const yelpData = allData.filter((data) => slugify(data.fromtext) === "yelp");
 
@@ -45,37 +45,37 @@ const Testimonials = () => {
               </div>
             </div>
             <div className="row">
-              <TestimonialPropTwo colSize="col-lg-4" itemShow="4" testimonialData={amexData} />
+              <TestimonialPropTwo colSize="col-lg-4" itemShow="5" testimonialData={amexData} />
             </div>
           </div>
         </div>
 
-        {/* <div className="section section-padding customer-review-area bg-color-dark overflow-hidden">
+        <div className="section section-padding customer-review-area bg-color-dark overflow-hidden">
           <div className="container">
             <div className="row">
-              <div className="col-lg-8">
+              <div className="col-lg-12">
                 <SectionTitle
                   subtitle=""
-                  title="Facebook Reviews"
-                  description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."
+                  title="Recommendations From People I've Worked With Elsewhere"
+                  description="These are recommendations from people I've worked with at other companies"
                   textAlignment="heading-light-left"
                   textColor=""
                 />
               </div>
-              <div className="col-lg-4">
+              {/* <div className="col-lg-4">
                 <div className="review-site-logo">
                   <a href="https://www.facebook.com/">
                     <img src={process.env.PUBLIC_URL + "/images/icon/fb.png"} alt="Facebook" />
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
             <div className="row">
               <TestimonialPropTwo
                 colSize="col-lg-4"
                 itemShow="3"
                 layoutStyle="testimonial-light"
-                testimonialData={facebookData}
+                testimonialData={otherPlacesData}
               />
             </div>
           </div>
@@ -89,7 +89,7 @@ const Testimonials = () => {
           </ul>
         </div>
 
-        <div className="section section-padding customer-review-area">
+        {/* <div className="section section-padding customer-review-area">
           <div className="container">
             <div className="row">
               <div className="col-lg-8">
@@ -115,7 +115,6 @@ const Testimonials = () => {
           </div>
         </div> */}
 
-        {/* <CtaLayoutOne /> */}
         <Footer parentClass="" />
       </main>
     </>

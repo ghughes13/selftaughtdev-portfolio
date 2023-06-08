@@ -82,17 +82,25 @@
   },
   {
     "id": 10,
+    "image": "/images/project/getpageimages-demo.png",
+    "title": "Get Page Images",
+    "category": ["Practice Projects", "Chrome Extension"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
+    "excerpt": "A chrome extension that, when run, grabs all images on the page, opens a new page, displays the images, and allows the user to easily download them by clicking on each image. (Still under review in the store, so now published yet.)",
+    "github": "https://github.com/ghughes13/get-page-images"
+  },
+  {
+    "id": 11,
     "image": "/images/project/BookOrganizationApp.png",
     "title": "GoodReads Clone",
     "category": ["Practice Projects"],
     "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
     "excerpt": "A book organization app (Similar to Google's GoodReads) built with React and Redux during my React Nano Degree program at Udacity.",
     "github": "https://github.com/ghughes13/Book-Tracker-App",
-    "demo": "https://362lx.csb.app/",
-    "body": []
+    "demo": "https://362lx.csb.app/"
   },
   {
-    "id": 11,
+    "id": 13,
     "image": "/images/project/ReactToDoApp.png",
     "title": "React ToDo App",
     "category": ["Practice Projects"],
@@ -103,7 +111,7 @@
     "body": []
   },
   {
-    "id": 12,
+    "id": 14,
     "image": "/images/project/WouldYouRather.png",
     "title": "Would You Rather",
     "category": ["Practice Projects"],
@@ -114,7 +122,7 @@
     "body": []
   },
   {
-    "id": 13,
+    "id": 15,
     "image": "/images/project/TikTakToe.png",
     "title": "Tic-Tak-Toe",
     "category": ["Practice Projects"],
@@ -125,7 +133,7 @@
     "body": []
   },
   {
-    "id": 14,
+    "id": 16,
     "image": "/images/project/project-5.png",
     "title": "Paginating List",
     "category": ["Practice Projects"],
@@ -136,7 +144,7 @@
     "body": []
   },
   {
-    "id": 15,
+    "id": 17,
     "image": "/images/project/project-6.png",
     "title": "TRIDigital",
     "category": ["Websites"],
