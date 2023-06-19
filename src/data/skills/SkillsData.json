@@ -9,7 +9,7 @@
     "id": 2,
     "thumb": "/images/skills/react.png",
     "title": "React",
-    "experience": "2 Years"
+    "experience": "3 Years"
   },
   {
     "id": 3,
@@ -70,5 +70,23 @@
     "thumb": "/images/skills/typescript.png",
     "title": "TypeScript",
     "experience": "1 Year"
+  },
+  {
+    "id": 13,
+    "thumb": "/images/skills/web-components.png",
+    "title": "Web Components",
+    "experience": "1 Year"
+  },
+  {
+    "id": 14,
+    "thumb": "/images/skills/figma.png",
+    "title": "Figma",
+    "experience": "2 Years"
+  },
+  {
+    "id": 15,
+    "thumb": "/images/skills/xd.png",
+    "title": "Adobe XD",
+    "experience": "3 Years"
   }
 ]
