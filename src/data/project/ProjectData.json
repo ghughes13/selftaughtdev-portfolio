@@ -11,14 +11,14 @@
     "body": []
   },
   {
-    "id": 2,
-    "image": "/images/project/SynthDigital.png",
-    "title": "SynthDigital",
-    "category": ["Websites", "Freelance"],
-    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
-    "excerpt": "Rebuilt SynthDigital's website in React with Gatsby.js and Netlify CMS.",
-    "github": "https://github.com/synthdigital/logan-portfolio-update",
-    "demo": "https://synthdigital.com/",
+    "id": 19,
+    "image": "/images/project/captionCalculator.png",
+    "title": "Caption Calculator",
+    "category": ["Practice Projects, App/Tool"],
+    "techStack": ["React", "Remix", "Netlify", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
+    "excerpt": "A tool for customers to calculate the number of captioning minutes they would need to purchase for their programs. ",
+    "github": "https://github.com/ghughes13/Caption-Calculator/tree/feature/captioning-calculator",
+    "demo": "https://startling-shortbread-4eadcc.netlify.app/",
     "body": []
   },
   {
@@ -40,6 +40,17 @@
     "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect). This tool might not be live yet, depending on when you see this, so the 'view project' link might not work.",
     "github": "https://github.com/ghughes13/leviate-plane-comparison-tool",
     "demo": "https://www.leviateair.com/aircraftcomparison+"
+  },
+  {
+    "id": 2,
+    "image": "/images/project/SynthDigital.png",
+    "title": "SynthDigital",
+    "category": ["Websites", "Freelance"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt SynthDigital's website in React with Gatsby.js and Netlify CMS.",
+    "github": "https://github.com/synthdigital/logan-portfolio-update",
+    "demo": "https://synthdigital.com/",
+    "body": []
   },
   {
     "id": 3,
