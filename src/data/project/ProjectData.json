@@ -37,7 +37,7 @@
     "title": "Aircraft Comparison Tool",
     "category": ["Freelance", "App/Tool"],
     "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
-    "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect). This tool might not be live yet, depending on when you see this, so the 'view project' link might not work.",
+    "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect).",
     "github": "https://github.com/ghughes13/leviate-plane-comparison-tool",
     "demo": "https://www.leviateair.com/aircraftcomparison+"
   },
