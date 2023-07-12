@@ -9,24 +9,10 @@ const Data = [
     image: "/images/icon/decap-logo.svg",
     github: "https://github.com/decaporg",
   },
-  // {
-  //     image: "/images/brand/brand-3.png"
-  // },
-  // {
-  //     image: "/images/brand/brand-4.png"
-  // },
-  // {
-  //     image: "/images/brand/brand-5.png"
-  // },
-  // {
-  //     image: "/images/brand/brand-6.png"
-  // },
-  // {
-  //     image: "/images/brand/brand-7.png"
-  // },
-  // {
-  //     image: "/images/brand/brand-8.png"
-  // }
+  {
+    image: "/images/icon/zulip-logo.png",
+    github: "https://github.com/zulip/zulip",
+  },
 ];
 
 const BrandItem = () => {

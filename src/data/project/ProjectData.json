@@ -3,12 +3,11 @@
     "id": 1,
     "image": "/images/project/HoneyCrm.png",
     "title": "Honey CRM",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites"],
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
-    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS. This is still a live project and they have made some changes since I left.",
+    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS. Plugged into Stripe's web API to process payments from new clients. This is still a live project and they have made some changes since I left.",
     "github": "https://github.com/ghughes13/honey-CRM",
-    "demo": "https://glasshive.com/",
-    "body": []
+    "demo": "https://glasshive.com/"
   },
   {
     "id": 19,
@@ -18,8 +17,7 @@
     "techStack": ["React", "Remix", "Netlify", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
     "excerpt": "A tool for customers to calculate the number of captioning minutes they would need to purchase for their programs. ",
     "github": "https://github.com/ghughes13/Caption-Calculator/tree/feature/captioning-calculator",
-    "demo": "https://startling-shortbread-4eadcc.netlify.app/",
-    "body": []
+    "demo": "https://startling-shortbread-4eadcc.netlify.app/"
   },
   {
     "id": 10,
@@ -34,7 +32,7 @@
   {
     "id": 18,
     "image": "/images/project/aircraft-comparison-tool.png",
-    "title": "Aircraft Comparison Tool",
+    "title": "Comparison Tool",
     "category": ["Freelance", "App/Tool"],
     "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
     "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect).",
@@ -49,14 +47,13 @@
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
     "excerpt": "Rebuilt SynthDigital's website in React with Gatsby.js and Netlify CMS.",
     "github": "https://github.com/synthdigital/logan-portfolio-update",
-    "demo": "https://synthdigital.com/",
-    "body": []
+    "demo": "https://synthdigital.com/"
   },
   {
     "id": 3,
     "image": "/images/project/redrock.webp",
     "title": "RedRock",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called RedRock IS. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. This is still a live site and they have made very minor changes since I developed it.",
     "demo": "https://www.redrockis.com/"
@@ -65,7 +62,7 @@
     "id": 4,
     "image": "/images/project/compas.webp",
     "title": "Compass MPS",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called Compass MSP. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is active, but they have made changes to it after I left, so take it with a grain of salt.",
     "demo": "https://compassmsp.com/"
@@ -74,7 +71,7 @@
     "id": 5,
     "image": "/images/project/pcnet.webp",
     "title": "PC Net",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called PC Net. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is active, but they have made changes to it after I left, so take it with a grain of salt.",
     "demo": "https://pcnetinc.com/"
@@ -83,7 +80,7 @@
     "id": 6,
     "image": "/images/project/fidelus.webp",
     "title": "Fidelus",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called Fidelus. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
   },
@@ -91,7 +88,7 @@
     "id": 7,
     "image": "/images/project/becca.webp",
     "title": "Becca Corp",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called Becca Corp. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
   },
@@ -99,7 +96,7 @@
     "id": 8,
     "image": "/images/project/Ripple.webp",
     "title": "Ripple IT",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called Ripple IT. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
   },
@@ -107,7 +104,7 @@
     "id": 9,
     "image": "/images/project/twinstate.webp",
     "title": "TwinState",
-    "category": ["Websites", "TRIDigital"],
+    "category": ["Websites", "Wordpress"],
     "techStack": ["Wordpress", "HTML", "CSS", "JavaScript"],
     "excerpt": "This is a site I built during my time at TRIDigital for a company called TwinState Technologies. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
   },
@@ -129,8 +126,7 @@
     "techStack": ["React", "JavaScript", "HTML", "CSS"],
     "excerpt": "A MERN stack ToDo list app and an API (https://github.com/ghughes13/API)  that will store your ToDo list items in a MongoDB database. There is no current demo for this project, and it needs to be redeployed.",
     "github": "https://github.com/ghughes13/react-todo-list",
-    "demo": "",
-    "body": []
+    "demo": ""
   },
   {
     "id": 14,
@@ -140,8 +136,7 @@
     "techStack": ["React", "Redux", "JavaScript", "HTML", "CSS"],
     "excerpt": "A would you rather game app built with React and Redux during my rect nano degree program at Udacity.",
     "github": "https://github.com/ghughes13/would-you-rather",
-    "demo": "https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js",
-    "body": []
+    "demo": "https://codesandbox.io/s/ghughes13would-you-rather-1i9dv?file=/src/index.js"
   },
   {
     "id": 15,
@@ -151,8 +146,7 @@
     "techStack": ["JavaScript", "HTML", "CSS"],
     "excerpt": "A Tic-Tak-Toe app built with vanilla JavaScript, CSS and HTML",
     "github": "https://github.com/ghughes13/tic-tac-toe",
-    "demo": "https://m9tx7.csb.app/",
-    "body": []
+    "demo": "https://m9tx7.csb.app/"
   },
   {
     "id": 16,
@@ -162,8 +156,7 @@
     "techStack": ["React", "JavaScript", "HTML", "CSS"],
     "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
     "github": "https://github.com/ghughes13/Pagination-Page",
-    "demo": "https://jv1ix.csb.app/",
-    "body": []
+    "demo": "https://jv1ix.csb.app/"
   },
   {
     "id": 17,
@@ -173,7 +166,33 @@
     "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
     "excerpt": "Rebuilt TRIDigital's website in React with Gatsby.js and Netlify CMS. (No longer active site)",
     "github": "https://github.com/ghughes13/Tridigital",
-    "demo": "",
-    "body": []
+    "demo": ""
+  },
+  {
+    "id": 20,
+    "image": "/images/project/freighttrain-site.png",
+    "title": "Freight Train",
+    "category": ["Freelance", "Wordpress", "Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "Worked with the team at Freight Train and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://freighttrain.com/"
+  },
+  {
+    "id": 21,
+    "image": "/images/project/hts-site.png",
+    "title": "HTS",
+    "category": ["Freelance", "Wordpress", "Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "Worked with the team at HTS and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://consulthts.com/"
+  },
+  {
+    "id": 22,
+    "image": "/images/project/supplier-performance-site.png",
+    "title": "Supplier Performance",
+    "category": ["Freelance", "Wordpress", "Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Wordpress"],
+    "excerpt": "Worked with the team at Open Supplier Performance and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://supplierperformance.com/"
   }
 ]

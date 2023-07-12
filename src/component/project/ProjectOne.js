@@ -14,6 +14,14 @@ const filters = [
   },
   {
     id: 3,
+    label: "Wordpress",
+  },
+  {
+    id: 4,
+    label: "Freelance",
+  },
+  {
+    id: 5,
     label: "Practice Projects",
   },
 ];
@@ -22,13 +30,13 @@ const AllData = ProjectData;
 
 const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
   const [getAllItems] = useState(AllData);
-  const [visiableProject] = useState(itemShow ? itemShow : 99);
+  const [visibleProject] = useState(itemShow ? itemShow : 99);
   const [activeFilter, setActiveFilter] = useState("");
   const [visibleItems, setVisibleItems] = useState([]);
 
   useEffect(() => {
     setActiveFilter(filters[0].label);
-    setVisibleItems(getAllItems.filter((item) => item.id <= visiableProject));
+    setVisibleItems(getAllItems.filter((item) => item.id <= visibleProject));
   }, []);
 
   const handleChange = (e) => {
@@ -39,7 +47,7 @@ const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
 
     let tempData = [];
     if (target === filters[0].label) {
-      tempData = getAllItems.filter((data) => data.id <= visiableProject);
+      tempData = getAllItems.filter((data) => data.id <= visibleProject);
     } else {
       for (let i = 0; i < getAllItems.length; i++) {
         const element = getAllItems[i];

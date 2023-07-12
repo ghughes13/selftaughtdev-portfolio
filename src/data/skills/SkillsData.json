@@ -88,5 +88,11 @@
     "thumb": "/images/skills/xd.png",
     "title": "Adobe XD",
     "experience": "3 Years"
+  },
+  {
+    "id": 16,
+    "thumb": "/images/skills/docker.png",
+    "title": "Docker",
+    "experience": "1 Year"
   }
 ]
