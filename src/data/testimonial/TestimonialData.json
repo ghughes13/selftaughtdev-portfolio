@@ -4,7 +4,7 @@
     "fromtext": "American Express",
     "from": "/images/icon/amexLogo.png",
     "description": "“Garrett is a go-getter with strong knowledge of JavaScript and React who is able to pick up any task given to him. In the about a year that I got to be his senior, I was consistently impressed with his ability to take on new tasks and also know the right questions to ask to find the best possible solution to any problem. He is a quick learner who I never needed to follow up on any task with as he followed up proactively with me when he ran into any issues. Overall, I think Garrett would be an excellent addition to any team or solo situation and I would be comfortable providing my recommendation for him for any position.”",
-    "authorimg": "https://media.licdn.com/dms/image/C5603AQEIdUALkJzxIw/profile-displayphoto-shrink_100_100/0/1655245029013?e=1691020800&v=beta&t=N3kqe3LJBEggq_afdljqeFtsiA1fYaj_NwTcg62aeSM",
+    "authorimg": "/images/testimonial/ashley.jpg",
     "authorname": "Ashley Krueger",
     "authordesig": "Senior Engineer II"
   },
@@ -13,7 +13,7 @@
     "fromtext": "American Express",
     "from": "/images/icon/amexLogo.png",
     "description": "“ Having worked with Garrett for over a year I would highly recommend him for any position. He requires no supervision and automatically takes on the required work without prompt. He asks the required questions and speaks up when needed to provide the best possible solution to the problem that is presented to him. He works well in both solo situation as well as part of a larger team. His professionalism makes him one of the easiest employees I have ever had the privilege to work with and would be an amazing asset to any team.”",
-    "authorimg": "https://media.licdn.com/dms/image/C5603AQGR3CnvB3uJPQ/profile-displayphoto-shrink_100_100/0/1517461117078?e=1691020800&v=beta&t=1x1zpOqGy6l_d3BdWTH_mGnYkygkLSccdAl5aAoDzCM",
+    "authorimg": "/images/testimonial/harrison.jpg",
     "authorname": "Harrison Barlow",
     "authordesig": "Senior Engineering Manager"
   },
@@ -22,7 +22,7 @@
     "fromtext": "American Express",
     "from": "/images/icon/amexLogo.png",
     "description": "“Garrett came on to our team and quickly exceeded our expectations. He hit the ground running and has an extensive knowledge of JavaScript and React making working with him very easy. He needs no micromanagement, is a quick learner and has good leadership/initiative which has been a big help on our team. Overall, Garrett is a great addition to any team.”",
-    "authorimg": "https://media.licdn.com/dms/image/C5103AQFK22RUC1Yo8w/profile-displayphoto-shrink_100_100/0/1516860765418?e=1691020800&v=beta&t=f8iyvwcPGy5_aZFi1iFWmtax9DLAg5p6xiMvAZVrDVc",
+    "authorimg": "/images/testimonial/juan.jpg",
     "authorname": "Juan Rojas",
     "authordesig": "Engineer I"
   },
@@ -31,7 +31,7 @@
     "fromtext": "American Express",
     "from": "/images/icon/amexLogo.png",
     "description": "“Garrett is an awesome engineer to work with! He's knowledgeable and enthusiastic about any project he's a part of.”",
-    "authorimg": "https://media.licdn.com/dms/image/C4E03AQFXtQ6oWNDI_Q/profile-displayphoto-shrink_100_100/0/1597690758365?e=1691625600&v=beta&t=kY3HBwcnPt32JO2TzUXoe9hfWLhhQbXCBF4mI7VEZh4",
+    "authorimg": "/images/testimonial/mecca.jpg",
     "authorname": "Mecca Whitfield",
     "authordesig": "Engineer III"
   },
@@ -40,7 +40,7 @@
     "fromtext": "Full-Stack Web Developer",
     "from": "/images/icon/testimonial-1.png",
     "description": "“I highly recommend Garrett Hughes for his exceptional skills and dedication in the field of web development. I had the pleasure of working with Garrett on multiple projects, and his expertise and professionalism always impressed me. Garrett's commitment to staying updated with the latest industry trends and best practices is evident in his work. He constantly seeks innovative solutions and implements cutting-edge technologies to deliver modern and efficient websites. He is a supportive colleague who is also full of ideas if you ever get stuck.”",
-    "authorimg": "https://media.licdn.com/dms/image/C4D03AQH9mKYstB7R0A/profile-displayphoto-shrink_100_100/0/1664123168730?e=1691625600&v=beta&t=4lWlWHuHT78RsGVQ3CwPxA1oTkYz-S63cDZLF6CgErg",
+    "authorimg": "/images/testimonial/divyash.jpg",
     "authorname": "Divyansh Dahiya",
     "authordesig": "Full-Stack Web Developer"
   },
@@ -49,7 +49,7 @@
     "fromtext": "SynthDigital",
     "from": "/images/icon/synthdigital-logo.svg",
     "description": "“I'm delighted to recommend Garrett as a web developer. I've had the pleasure of working with him on multiple projects through my company SynthDigital. He has been an invaluable consultant to my team on multiple web design projects and consistently delivers exceptional work.\n\n Throughout our collaboration, Garrett has demonstrated a deep understanding of frontend technologies and a passion for solving any problem thrown at him. One of Garrett's greatest strengths is his ability to effectively collaborate and show initiative. He is always open to feedback, actively participates in discussions, and offers valuable insights to solve technical challenges. \n\n Another key aspect I really like about Garrett is that he is a developer with a solid understanding of design principles and user experience, which as a designer, has made my working with him rather enjoyable. \n\n Feel free to reach out to me if you have any further questions about Garrett's work or qualifications.”",
-    "authorimg": "https://media.licdn.com/dms/image/C5603AQGmj1zkkvXhLw/profile-displayphoto-shrink_100_100/0/1516327529809?e=1691625600&v=beta&t=Q-cT-IgZMxnaIZoamPkDYFntFGhxIswLvgkW5xIc9nE",
+    "authorimg": "/images/testimonial/logan.jpg",
     "authorname": "Logan McCoy",
     "authordesig": "Senior UX/UI Designer / Owner"
   },
@@ -58,7 +58,7 @@
     "fromtext": "American Express",
     "from": "/images/icon/amexLogo.png",
     "description": "“I had the opportunity to work alongside Garrett across multiple initiatives within the web development space at AMEX. Garrett is a talented hard working software engineer that excels in a fast paced environment. Garrett shows strong knowledge in web development and is a well rounded software engineer. His eagerness to take on tasks proactively coupled with his exceptional problem solving skills ensures that projects are completed on time and with the highest of quality. \n I highly recommend Garrett and guarantee that he would be a strong asset on any team.”",
-    "authorimg": "https://media.licdn.com/dms/image/C5603AQFfLRW5i4F-2A/profile-displayphoto-shrink_100_100/0/1653429666348?e=1691625600&v=beta&t=QxbWwW-4spgWGKiQSuUhkcFORP0QqUaUNFHOkZxdpxQ",
+    "authorimg": "/images/testimonial/dedrick.jpg",
     "authorname": "Dedrick Luk",
     "authordesig": "Product Manager"
   }
