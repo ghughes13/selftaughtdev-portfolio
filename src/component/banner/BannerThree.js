@@ -13,7 +13,7 @@ const BannerThree = () => {
                 <span className="subtitle">GARRETT HUGHES</span>
               </AnimationOnScroll>
               <AnimationOnScroll animateIn="slideInUp" duration={1} animateOnce={true} delay={200}>
-                <h1 className="title">Front End Engineer</h1>
+                <h1 className="title">Web Developer</h1>
               </AnimationOnScroll>
               <AnimationOnScroll animateIn="slideInUp" duration={1} animateOnce={true} delay={200}>
                 <div className="btn-group">

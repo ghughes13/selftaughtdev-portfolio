@@ -17,6 +17,7 @@
     "authorname": "Harrison Barlow",
     "authordesig": "Senior Engineering Manager"
   },
+
   {
     "id": 3,
     "fromtext": "American Express",
@@ -61,5 +62,23 @@
     "authorimg": "/images/testimonial/dedrick.jpg",
     "authorname": "Dedrick Luk",
     "authordesig": "Product Manager"
+  },
+  {
+    "id": 8,
+    "fromtext": "Doorcast",
+    "from": "/images/icon/doorcast-Logo.png",
+    "description": "“I have nothing but wonderful things to say about Garret. He is the total package when it comes to work ethic, efficiency, and knowledge. He is an absolute treat to have on any team and makes everyone around him better. Garret is the secret weapon you have been looking for, any company would be lucky to have this ALL-Star!”",
+    "authorimg": "/images/testimonial/collin.jpg",
+    "authorname": "Colin Lyons",
+    "authordesig": "QA Engineer"
+  },
+  {
+    "id": 9,
+    "fromtext": "Doorcast",
+    "from": "/images/icon/doorcast-Logo.png",
+    "description": "“I had the pleasure of working with Garrett for over a year at a fast-paced start-up. I worked with Garrett on a fully-remote team, where he joined us as a contracted full stack engineer but was quickly hired as a full-time software engineer. \n\n From day one with the team, Garrett hit the ground running by leveraging his existing expertise to rapidly familiarize himself with our code base and niche libraries. Within a remarkably short period of time, Garrett was already creating pull-requests and generating value for the team. During collaboration meetings and code-reviews, Garrett always offers valuable insights and contributions. I have found that he is one of the few engineers that I have met that have an intuitive sense for UI/UX considerations. Additionally, communicating with Garrett is always easy - he is friendly, charismatic, and, on the rare occasions where I have given him feedback, he is extremely receptive of guidance.\n Garrett is, without a doubt, a high-performer. He has a proven track record to produce a high amount of output without sacrificing quality - Garrett has a knack for writing clean code that is coupled with robust logic. Additionally, he's proven himself to be extremely adaptable by learning React Native on the fly, without any formal training or instruction, and taking ownership of all maintenance and enhancements for our team's mobile application. \n”",
+    "authorimg": "/images/testimonial/vince.jpg",
+    "authorname": "Vincent Buongiovanni",
+    "authordesig": "Senior Software Engineer"
   }
 ]

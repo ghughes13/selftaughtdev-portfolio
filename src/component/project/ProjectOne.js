@@ -14,14 +14,10 @@ const filters = [
   },
   {
     id: 3,
-    label: "Wordpress",
+    label: "Extensions",
   },
   {
     id: 4,
-    label: "Freelance",
-  },
-  {
-    id: 5,
     label: "Practice Projects",
   },
 ];

@@ -12,9 +12,11 @@ import { slugify } from "../utils";
 const allData = TestimonialData;
 
 const Testimonials = () => {
-  const otherPlacesData = allData.filter((data) => slugify(data.fromtext) !== "american-express");
+  const otherPlacesData = allData.filter(
+    (data) => slugify(data.fromtext) !== "american-express" && slugify(data.fromtext) !== "doorcast"
+  );
   const amexData = allData.filter((data) => slugify(data.fromtext) === "american-express");
-  const yelpData = allData.filter((data) => slugify(data.fromtext) === "yelp");
+  const doorcastData = allData.filter((data) => slugify(data.fromtext) === "doorcast");
 
   return (
     <>
@@ -30,9 +32,35 @@ const Testimonials = () => {
               <div className="col-lg-8">
                 <SectionTitle
                   subtitle=""
-                  title="Co-Worker </br>Recommendations"
-                  description="Recommendations from people I've worked with at American Express"
+                  title="Recommendations from people I've worked with at Doorcast"
                   textAlignment="heading-left"
+                  textColor=""
+                />
+              </div>
+              <div className="col-lg-4 flex">
+                <div className="review-site-logo">
+                  <a href="https://doorcast.com/">
+                    <img src={process.env.PUBLIC_URL + "/images/icon/doorcast-Logo.png"} alt="Doorcast" />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <TestimonialPropTwo colSize="col-lg-6" itemShow="2" testimonialData={doorcastData} />
+            </div>
+          </div>
+        </div>
+
+        {/* AMEX REVIEWS */}
+        <div className="section section-padding customer-review-area bg-color-dark overflow-hidden">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-8">
+                <SectionTitle
+                  subtitle=""
+                  title="Recommendations from people I've worked with at American Express"
+                  description=""
+                  textAlignment="heading-light-left"
                   textColor=""
                 />
               </div>
@@ -45,37 +73,11 @@ const Testimonials = () => {
               </div>
             </div>
             <div className="row">
-              <TestimonialPropTwo colSize="col-lg-4" itemShow="5" testimonialData={amexData} />
-            </div>
-          </div>
-        </div>
-
-        <div className="section section-padding customer-review-area bg-color-dark overflow-hidden">
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-12">
-                <SectionTitle
-                  subtitle=""
-                  title="Recommendations From People I've Worked With Elsewhere"
-                  description="These are recommendations from people I've worked with at other companies"
-                  textAlignment="heading-light-left"
-                  textColor=""
-                />
-              </div>
-              {/* <div className="col-lg-4">
-                <div className="review-site-logo">
-                  <a href="https://www.facebook.com/">
-                    <img src={process.env.PUBLIC_URL + "/images/icon/fb.png"} alt="Facebook" />
-                  </a>
-                </div>
-              </div> */}
-            </div>
-            <div className="row">
               <TestimonialPropTwo
                 colSize="col-lg-4"
-                itemShow="3"
+                itemShow="5"
                 layoutStyle="testimonial-light"
-                testimonialData={otherPlacesData}
+                testimonialData={amexData}
               />
             </div>
           </div>
@@ -89,31 +91,25 @@ const Testimonials = () => {
           </ul>
         </div>
 
-        {/* <div className="section section-padding customer-review-area">
+        {/* OTHER REVIEWS */}
+        <div className="section section-padding customer-review-area">
           <div className="container">
             <div className="row">
               <div className="col-lg-8">
                 <SectionTitle
                   subtitle=""
-                  title="Yelp Reviews"
-                  description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."
+                  title="Recommendations From People I've Worked With Elsewhere"
+                  description="These are recommendations from people I've worked with at other companies"
                   textAlignment="heading-left"
                   textColor=""
                 />
               </div>
-              <div className="col-lg-4">
-                <div className="review-site-logo">
-                  <a href="https://www.yelp.com/">
-                    <img src={process.env.PUBLIC_URL + "/images/icon/yelp.png"} alt="Yelp" />
-                  </a>
-                </div>
-              </div>
             </div>
             <div className="row">
-              <TestimonialPropTwo colSize="col-lg-4" itemShow="3" testimonialData={yelpData} />
+              <TestimonialPropTwo colSize="col-lg-4" itemShow="3" testimonialData={otherPlacesData} />
             </div>
           </div>
-        </div> */}
+        </div>
 
         <Footer parentClass="" />
       </main>
