@@ -8,7 +8,7 @@ import PersonalPortfolio from "./pages/PersonalPortfolio";
 
 // Project
 import ProjectGridTwo from "./pages/ProjectGridTwo";
-import ProjectDetails from "./pages/ProjectDetails";
+import Projects from "./pages/Projects";
 
 // Pages
 // import AboutMe from "./pages/AboutMe";
@@ -32,7 +32,7 @@ const App = () => {
 
           {/* Project  */}
           <Route path={process.env.PUBLIC_URL + "/project-grid-two"} element={<ProjectGridTwo />} />
-          <Route path={process.env.PUBLIC_URL + "/project-details/:slug"} element={<ProjectDetails />} />
+          <Route path={process.env.PUBLIC_URL + "/project-details/:slug"} element={<Projects />} />
 
           {/* Pages  */}
           <Route path={process.env.PUBLIC_URL + "/about-me"} element={<ComingSoon />} />

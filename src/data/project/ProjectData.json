@@ -1,13 +1,22 @@
 [
   {
+    "id": 10,
+    "image": "/images/project/getpageimages-demo.png",
+    "title": "Get Page Images",
+    "category": ["Extensions"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
+    "excerpt": "A chrome extension that, when run, grabs all images on the page, opens a new page, displays the images, and allows the user to easily download them by clicking on each image. It's currently got over 100+ installs on the Chrome Web Store and multiple 5 start reviews.",
+    "github": "https://github.com/ghughes13/get-page-images",
+    "demo": "https://chrome.google.com/webstore/detail/get-page-images/cdmclclkmmhclplcfjaglceaahcjplcd"
+  },
+  {
     "id": 1,
-    "image": "/images/project/HoneyCrm.png",
-    "title": "Honey CRM",
-    "category": ["Websites"],
-    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
-    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS. Plugged into Stripe's web API to process payments from new clients. This is still a live project and they have made some changes since I left.",
-    "github": "https://github.com/ghughes13/honey-CRM",
-    "demo": "https://glasshive.com/"
+    "image": "/images/project/nx-wordle.png",
+    "title": "Worlde Clone",
+    "category": ["Practice Projects"],
+    "techStack": ["React", "NX", "Backend API", "Nest", "JavaScript", "Typescript", "Tailwind"],
+    "excerpt": "An e2e clone of the popular game Worlde. This project was built with React, NX, and a backend API built with Nest.",
+    "github": "https://github.com/ghughes13/nx-wordle-clone"
   },
   {
     "id": 19,
@@ -20,16 +29,6 @@
     "demo": "https://startling-shortbread-4eadcc.netlify.app/"
   },
   {
-    "id": 10,
-    "image": "/images/project/getpageimages-demo.png",
-    "title": "Get Page Images",
-    "category": ["Extensions"],
-    "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
-    "excerpt": "A chrome extension that, when run, grabs all images on the page, opens a new page, displays the images, and allows the user to easily download them by clicking on each image. It's currently got over 100+ installs on the Chrome Web Store and a 5 start review.",
-    "github": "https://github.com/ghughes13/get-page-images",
-    "demo": "https://chrome.google.com/webstore/detail/get-page-images/cdmclclkmmhclplcfjaglceaahcjplcd"
-  },
-  {
     "id": 18,
     "image": "/images/project/aircraft-comparison-tool.png",
     "title": "Comparison Tool",
@@ -38,6 +37,38 @@
     "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect).",
     "github": "https://github.com/ghughes13/leviate-plane-comparison-tool",
     "demo": "https://www.leviateair.com/aircraftcomparison+"
+  },
+  {
+    "id": 1,
+    "image": "/images/project/HoneyCrm.png",
+    "title": "Honey CRM",
+    "category": ["Websites"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt Honey CRM's (Now Glass Hive) website in React with Gatsby.js and Netlify CMS. Plugged into Stripe's web API to process payments from new clients. This is still a live project and they have made some changes since I left.",
+    "github": "https://github.com/ghughes13/honey-CRM",
+    "demo": "https://glasshive.com/"
+  },
+  {
+    "id": 23,
+    "image": "/images/project/quora-before.jpg",
+    "imageTwo": "/images/project/quora-after.jpg",
+    "title": "Ad Block - Quora",
+    "category": ["Extensions"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
+    "excerpt": "A Chrome extension that filters out promoted posts and ads on Quora.",
+    "github": "https://github.com/ghughes13/csl-quora-filter-promoted",
+    "demo": "https://chromewebstore.google.com/detail/filter-promoted-quora/iffpjmkkanmalffaldhfgfcjjhifopoa"
+  },
+  {
+    "id": 24,
+    "image": "/images/project/reddit-before.jpg",
+    "imageTwo": "/images/project/reddit-after.jpg",
+    "title": "Ad Block - Reddit",
+    "category": ["Extensions"],
+    "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
+    "excerpt": "A Chrome extension that filters out promoted posts and ads on Reddit.",
+    "github": "https://github.com/ghughes13/csl-reddit-filter-promoted",
+    "demo": "https://chromewebstore.google.com/detail/filter-promoted-reddit/klifoknfdabggkikkpambbkclchhjdag"
   },
   {
     "id": 2,
@@ -194,5 +225,23 @@
     "techStack": ["JavaScript", "HTML", "CSS"],
     "excerpt": "Worked with the team at Open Supplier Performance and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
     "demo": "https://supplierperformance.com/"
+  },
+  {
+    "id": 25,
+    "image": "/images/project/raintech.png",
+    "title": "RainTech",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Collaborated with the team at RainTech and a designer to develop a custom WordPress site for their company. The site is fully responsive and features functional forms.",
+    "demo": "https://www.rain.tech/"
+  },
+  {
+    "id": 26,
+    "image": "/images/project/fitup.png",
+    "title": "FitUp",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Worked closely with the team at FitUp and a designer to create a custom WordPress site for their company. The site is fully responsive and includes fully functional forms.",
+    "demo": "https://www.usefitup.com/"
   }
 ]

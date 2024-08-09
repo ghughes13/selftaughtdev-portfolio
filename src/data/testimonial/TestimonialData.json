@@ -17,7 +17,6 @@
     "authorname": "Harrison Barlow",
     "authordesig": "Senior Engineering Manager"
   },
-
   {
     "id": 3,
     "fromtext": "American Express",
@@ -74,6 +73,15 @@
   },
   {
     "id": 9,
+    "fromtext": "Doorcast",
+    "from": "/images/icon/doorcast-Logo.png",
+    "description": "“I’ve had the pleasure to work with Garrett for the past year, and I would highly recommend him to any organization. He is very talented, and was one of my top performers. He can tackle anything you throw at him, and know he will deliver. Definitely someone on my short list that I would love to work with again.”",
+    "authorimg": "/images/testimonial/jason.jpg",
+    "authorname": "Vincent Buongiovanni",
+    "authordesig": "Senior Software Engineer"
+  },
+  {
+    "id": 10,
     "fromtext": "Doorcast",
     "from": "/images/icon/doorcast-Logo.png",
     "description": "“I had the pleasure of working with Garrett for over a year at a fast-paced start-up. I worked with Garrett on a fully-remote team, where he joined us as a contracted full stack engineer but was quickly hired as a full-time software engineer. \n\n From day one with the team, Garrett hit the ground running by leveraging his existing expertise to rapidly familiarize himself with our code base and niche libraries. Within a remarkably short period of time, Garrett was already creating pull-requests and generating value for the team. During collaboration meetings and code-reviews, Garrett always offers valuable insights and contributions. I have found that he is one of the few engineers that I have met that have an intuitive sense for UI/UX considerations. Additionally, communicating with Garrett is always easy - he is friendly, charismatic, and, on the rare occasions where I have given him feedback, he is extremely receptive of guidance.\n Garrett is, without a doubt, a high-performer. He has a proven track record to produce a high amount of output without sacrificing quality - Garrett has a knack for writing clean code that is coupled with robust logic. Additionally, he's proven himself to be extremely adaptable by learning React Native on the fly, without any formal training or instruction, and taking ownership of all maintenance and enhancements for our team's mobile application. \n”",

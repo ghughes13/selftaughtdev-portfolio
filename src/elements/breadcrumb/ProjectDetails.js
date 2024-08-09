@@ -2,7 +2,7 @@ import React from "react";
 import Tilty from "react-tilty";
 import { AnimationOnScroll } from "react-animation-on-scroll";
 
-const BcrumbBannerTwo = ({ title, paragraph, mainThumb, githubLink, demoLink, techStack }) => {
+const ProjectDetails = ({ title, paragraph, primaryImage, secondaryImage, githubLink, demoLink, techStack }) => {
   return (
     <div className="breadcrum-area breadcrumb-banner single-breadcrumb">
       <div className="container">
@@ -40,7 +40,12 @@ const BcrumbBannerTwo = ({ title, paragraph, mainThumb, githubLink, demoLink, te
           <div className="col-lg-6">
             <div className="banner-thumbnail">
               <Tilty perspective={2000} reset={false}>
-                <img src={process.env.PUBLIC_URL + mainThumb} alt="Illustration" />
+                <img src={process.env.PUBLIC_URL + primaryImage} alt="Illustration" />
+                {secondaryImage ? (
+                  <img src={process.env.PUBLIC_URL + secondaryImage} style={{ marginTop: "25px" }} alt="Illustration" />
+                ) : (
+                  <> </>
+                )}
               </Tilty>
             </div>
           </div>
@@ -61,4 +66,4 @@ const BcrumbBannerTwo = ({ title, paragraph, mainThumb, githubLink, demoLink, te
   );
 };
 
-export default BcrumbBannerTwo;
+export default ProjectDetails;

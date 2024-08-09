@@ -46,7 +46,7 @@ const Testimonials = () => {
               </div>
             </div>
             <div className="row">
-              <TestimonialPropTwo colSize="col-lg-6" itemShow="2" testimonialData={doorcastData} />
+              <TestimonialPropTwo colSize="col-lg-6" itemShow="3" testimonialData={doorcastData} />
             </div>
           </div>
         </div>
