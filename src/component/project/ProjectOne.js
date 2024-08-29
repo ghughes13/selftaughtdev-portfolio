@@ -14,7 +14,7 @@ const filters = [
   },
   {
     id: 3,
-    label: "Extensions",
+    label: "Apps / Tools",
   },
   {
     id: 4,
@@ -70,14 +70,18 @@ const ProjectOne = ({ parentClass, colSize, itemShow, columnGap }) => {
           />
           <div className="isotope-button isotope-project-btn">
             {filters.map((filter) => (
-              <button onClick={handleChange} className={filter.label === activeFilter ? "is-checked" : " "} key={filter.id}>
+              <button
+                onClick={handleChange}
+                className={filter.label === activeFilter ? "is-checked" : " "}
+                key={filter.label}
+              >
                 {filter.label}
               </button>
             ))}
           </div>
           <div className={`row ${columnGap ? columnGap : "row-35"}`}>
             {visibleItems.map((data) => (
-              <div className={colSize ? colSize : "col-md-6"} key={data.id}>
+              <div className={colSize ? colSize : "col-md-6"} key={data.image}>
                 <ProjectPropOne projectStyle="" portfolio={data} />
               </div>
             ))}

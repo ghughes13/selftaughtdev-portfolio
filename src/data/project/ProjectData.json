@@ -3,7 +3,7 @@
     "id": 10,
     "image": "/images/project/getpageimages-demo.png",
     "title": "Get Page Images",
-    "category": ["Extensions"],
+    "category": ["Apps / Tools"],
     "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
     "excerpt": "A chrome extension that, when run, grabs all images on the page, opens a new page, displays the images, and allows the user to easily download them by clicking on each image. It's currently got over 100+ installs on the Chrome Web Store and multiple 5 start reviews.",
     "github": "https://github.com/ghughes13/get-page-images",
@@ -22,7 +22,7 @@
     "id": 19,
     "image": "/images/project/captionCalculator.png",
     "title": "Caption Calculator",
-    "category": ["Practice Projects, App/Tool"],
+    "category": ["Apps / Tools"],
     "techStack": ["React", "Remix", "Netlify", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
     "excerpt": "A tool for customers to calculate the number of captioning minutes they would need to purchase for their programs. ",
     "github": "https://github.com/ghughes13/Caption-Calculator/tree/feature/captioning-calculator",
@@ -32,7 +32,7 @@
     "id": 18,
     "image": "/images/project/aircraft-comparison-tool.png",
     "title": "Comparison Tool",
-    "category": ["App/Tool"],
+    "category": ["Apps / Tools"],
     "techStack": ["JavaScript", "HTML", "CSS"],
     "excerpt": "A tool, similar to Apple's iphone comparison tool, that allows customers to compare up to three aircraft at a time (Total Passengers, Max Cruise Speed, Cabin Length, ect).",
     "github": "https://github.com/ghughes13/leviate-plane-comparison-tool",
@@ -53,7 +53,7 @@
     "image": "/images/project/quora-before.jpg",
     "imageTwo": "/images/project/quora-after.jpg",
     "title": "Ad Block - Quora",
-    "category": ["Extensions"],
+    "category": ["Apps / Tools"],
     "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
     "excerpt": "A Chrome extension that filters out promoted posts and ads on Quora.",
     "github": "https://github.com/ghughes13/csl-quora-filter-promoted",
@@ -64,7 +64,7 @@
     "image": "/images/project/reddit-before.jpg",
     "imageTwo": "/images/project/reddit-after.jpg",
     "title": "Ad Block - Reddit",
-    "category": ["Extensions"],
+    "category": ["Apps / Tools"],
     "techStack": ["JavaScript", "HTML", "CSS", "Chrome Extensions", "Manifest v3"],
     "excerpt": "A Chrome extension that filters out promoted posts and ads on Reddit.",
     "github": "https://github.com/ghughes13/csl-reddit-filter-promoted",
@@ -140,6 +140,61 @@
     "excerpt": "This is a site I built during my time at TRIDigital for a company called TwinState Technologies. I built this site using Wordpress, HTML, CSS, and JavaScript. I also used a few plugins to help with the functionality of the site. The site is no longer active and was not on github so all I have left are these images."
   },
   {
+    "id": 20,
+    "image": "/images/project/freighttrain-site.png",
+    "title": "Freight Train",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Worked with the team at Freight Train and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://freighttrain.com/"
+  },
+  {
+    "id": 21,
+    "image": "/images/project/hts-site.png",
+    "title": "HTS",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Worked with the team at HTS and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://consulthts.com/"
+  },
+  {
+    "id": 22,
+    "image": "/images/project/supplier-performance-site.png",
+    "title": "Supplier Performance",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Worked with the team at Open Supplier Performance and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
+    "demo": "https://supplierperformance.com/"
+  },
+  {
+    "id": 25,
+    "image": "/images/project/raintech.png",
+    "title": "RainTech",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Collaborated with the team at RainTech and a designer to develop a custom WordPress site for their company. The site is fully responsive and features functional forms.",
+    "demo": "https://www.rain.tech/"
+  },
+  {
+    "id": 26,
+    "image": "/images/project/fitup.png",
+    "title": "FitUp",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Worked closely with the team at FitUp and a designer to create a custom WordPress site for their company. The site is fully responsive and includes fully functional forms.",
+    "demo": "https://www.usefitup.com/"
+  },
+  {
+    "id": 17,
+    "image": "/images/project/project-6.png",
+    "title": "TRIDigital",
+    "category": ["Websites"],
+    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
+    "excerpt": "Rebuilt TRIDigital's website in React with Gatsby.js and Netlify CMS. (No longer active site)",
+    "github": "https://github.com/ghughes13/Tridigital",
+    "demo": ""
+  },
+  {
     "id": 11,
     "image": "/images/project/BookOrganizationApp.png",
     "title": "GoodReads Clone",
@@ -188,60 +243,5 @@
     "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
     "github": "https://github.com/ghughes13/Pagination-Page",
     "demo": "https://jv1ix.csb.app/"
-  },
-  {
-    "id": 17,
-    "image": "/images/project/project-6.png",
-    "title": "TRIDigital",
-    "category": ["Websites"],
-    "techStack": ["React", "Gatsby", "Netlify CMS", "Sass", "JavaScript", "HTML", "CSS"],
-    "excerpt": "Rebuilt TRIDigital's website in React with Gatsby.js and Netlify CMS. (No longer active site)",
-    "github": "https://github.com/ghughes13/Tridigital",
-    "demo": ""
-  },
-  {
-    "id": 20,
-    "image": "/images/project/freighttrain-site.png",
-    "title": "Freight Train",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Worked with the team at Freight Train and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
-    "demo": "https://freighttrain.com/"
-  },
-  {
-    "id": 21,
-    "image": "/images/project/hts-site.png",
-    "title": "HTS",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Worked with the team at HTS and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
-    "demo": "https://consulthts.com/"
-  },
-  {
-    "id": 22,
-    "image": "/images/project/supplier-performance-site.png",
-    "title": "Supplier Performance",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Worked with the team at Open Supplier Performance and a designer to build a custom Wordpress site for their company. It's fully responsive, and has functioning forms.",
-    "demo": "https://supplierperformance.com/"
-  },
-  {
-    "id": 25,
-    "image": "/images/project/raintech.png",
-    "title": "RainTech",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Collaborated with the team at RainTech and a designer to develop a custom WordPress site for their company. The site is fully responsive and features functional forms.",
-    "demo": "https://www.rain.tech/"
-  },
-  {
-    "id": 26,
-    "image": "/images/project/fitup.png",
-    "title": "FitUp",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Worked closely with the team at FitUp and a designer to create a custom WordPress site for their company. The site is fully responsive and includes fully functional forms.",
-    "demo": "https://www.usefitup.com/"
   }
 ]
