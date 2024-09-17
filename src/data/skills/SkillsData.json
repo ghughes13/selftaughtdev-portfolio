@@ -3,25 +3,25 @@
     "id": 1,
     "thumb": "/images/skills/js.png",
     "title": "JavaScript",
-    "experience": "5 Years"
+    "experience": "6 Years"
   },
   {
     "id": 2,
     "thumb": "/images/skills/react.png",
     "title": "React",
-    "experience": "3 Years"
+    "experience": "5 Years"
   },
   {
     "id": 3,
     "thumb": "/images/skills/html.png",
     "title": "HTML",
-    "experience": "5 Years"
+    "experience": "6 Years"
   },
   {
     "id": 4,
     "thumb": "/images/skills/css.png",
     "title": "CSS",
-    "experience": "5 Years"
+    "experience": "6 Years"
   },
   {
     "id": 5,
@@ -33,13 +33,13 @@
     "id": 6,
     "thumb": "/images/skills/redux.png",
     "title": "Redux",
-    "experience": "1 Year"
+    "experience": "2 Year"
   },
   {
     "id": 7,
     "thumb": "/images/skills/jest.png",
     "title": "Jest",
-    "experience": "2 Years"
+    "experience": "3 Years"
   },
   {
     "id": 8,
@@ -51,7 +51,7 @@
     "id": 9,
     "thumb": "/images/skills/git.png",
     "title": "Git",
-    "experience": "4 Years"
+    "experience": "5 Years"
   },
   {
     "id": 10,
@@ -69,7 +69,7 @@
     "id": 12,
     "thumb": "/images/skills/typescript.png",
     "title": "TypeScript",
-    "experience": "1 Year"
+    "experience": "2 Year"
   },
   {
     "id": 13,
@@ -81,13 +81,13 @@
     "id": 14,
     "thumb": "/images/skills/figma.png",
     "title": "Figma",
-    "experience": "2 Years"
+    "experience": "5 Years"
   },
   {
     "id": 15,
     "thumb": "/images/skills/xd.png",
     "title": "Adobe XD",
-    "experience": "3 Years"
+    "experience": "5 Years"
   },
   {
     "id": 16,
