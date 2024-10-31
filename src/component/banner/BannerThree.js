@@ -29,7 +29,7 @@ const BannerThree = () => {
               <div className="large-thumb">
                 <AnimationOnScroll animateIn="slideInUp" duration={1} animateOnce={true} delay={200}>
                   <Tilty perspective={2000} reset={false}>
-                    <img src={process.env.PUBLIC_URL + "/images/banner/garrett-headshot.jpg"} alt="Shape" />
+                    <img src={process.env.PUBLIC_URL + "/images/banner/garrett-headshot-update.jpg"} alt="Shape" />
                   </Tilty>
                 </AnimationOnScroll>
               </div>
