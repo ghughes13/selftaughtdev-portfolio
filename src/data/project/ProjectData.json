@@ -10,13 +10,13 @@
     "demo": "https://chrome.google.com/webstore/detail/get-page-images/cdmclclkmmhclplcfjaglceaahcjplcd"
   },
   {
-    "id": 1,
-    "image": "/images/project/nx-wordle.png",
-    "title": "Worlde Clone",
-    "category": ["Practice Projects"],
-    "techStack": ["React", "NX", "Backend API", "Nest", "JavaScript", "Typescript", "Tailwind"],
-    "excerpt": "An e2e clone of the popular game Worlde. This project was built with React, NX, and a backend API built with Nest.",
-    "github": "https://github.com/ghughes13/nx-wordle-clone"
+    "id": 25,
+    "image": "/images/project/raintech.png",
+    "title": "RainTech",
+    "category": ["Websites"],
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "excerpt": "Collaborated with the team at RainTech and a designer to develop a custom WordPress site for their company. The site is fully responsive and features functional forms.",
+    "demo": "https://www.rain.tech/"
   },
   {
     "id": 19,
@@ -167,13 +167,13 @@
     "demo": "https://supplierperformance.com/"
   },
   {
-    "id": 25,
-    "image": "/images/project/raintech.png",
-    "title": "RainTech",
-    "category": ["Websites"],
-    "techStack": ["JavaScript", "HTML", "CSS"],
-    "excerpt": "Collaborated with the team at RainTech and a designer to develop a custom WordPress site for their company. The site is fully responsive and features functional forms.",
-    "demo": "https://www.rain.tech/"
+    "id": 1,
+    "image": "/images/project/nx-wordle.png",
+    "title": "Worlde Clone",
+    "category": ["Practice Projects"],
+    "techStack": ["React", "NX", "Backend API", "Nest", "JavaScript", "Typescript", "Tailwind"],
+    "excerpt": "An e2e clone of the popular game Worlde. This project was built with React, NX, and a backend API built with Nest.",
+    "github": "https://github.com/ghughes13/nx-wordle-clone"
   },
   {
     "id": 26,

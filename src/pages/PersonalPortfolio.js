@@ -20,9 +20,9 @@ const PersonalPortfolio = () => {
         <HeaderThree />
         <BannerThree />
         <ProjectTwo />
-        <Skills />
-        <BrandOne />
         <TestimonialTwo />
+        <BrandOne />
+        <Skills />
 
         <div className="section-padding bg-color-dark">
           <div className="container">
