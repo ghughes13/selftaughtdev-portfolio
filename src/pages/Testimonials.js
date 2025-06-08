@@ -13,10 +13,14 @@ const allData = TestimonialData;
 
 const Testimonials = () => {
   const otherPlacesData = allData.filter(
-    (data) => slugify(data.fromtext) !== "american-express" && slugify(data.fromtext) !== "doorcast"
+    (data) =>
+      slugify(data.fromtext) !== "american-express" &&
+      slugify(data.fromtext) !== "doorcast" &&
+      slugify(data.fromtext) !== "capital-one"
   );
   const amexData = allData.filter((data) => slugify(data.fromtext) === "american-express");
   const doorcastData = allData.filter((data) => slugify(data.fromtext) === "doorcast");
+  const capitalOne = allData.filter((data) => slugify(data.fromtext) === "capital-one");
 
   return (
     <>
@@ -26,13 +30,51 @@ const Testimonials = () => {
         <HeaderThree />
         <BreadCrumbOne title="Recommendations From </br> People I've Worked With" page="Recommendations" />
 
+        {/* CAPITAL ONE REVIEWS */}
+        <div className="section section-padding customer-review-area bg-color-dark overflow-hidden">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-8">
+                <SectionTitle subtitle="" title="" description="" textAlignment="heading-light-left" textColor="" />
+              </div>
+              <div className="col-lg-4">
+                <div className="review-site-logo">
+                  <a href="https://www.capitalone.com/">
+                    <img
+                      src={process.env.PUBLIC_URL + "/images/icon/capital_one.png"}
+                      alt="Capital One"
+                      style={{ filter: "brightness(1.5)" }}
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <TestimonialPropTwo
+                colSize="col-lg-4"
+                itemShow="5"
+                layoutStyle="testimonial-light"
+                testimonialData={capitalOne}
+              />
+            </div>
+          </div>
+          <ul className="shape-group-11 list-unstyled">
+            <li className="shape shape-1">
+              <img src={process.env.PUBLIC_URL + "/images/others/line-6.png"} alt="line" />
+            </li>
+            <li className="shape shape-2">
+              <img src={process.env.PUBLIC_URL + "/images/others/circle-3.png"} alt="line" />
+            </li>
+          </ul>
+        </div>
+
         <div className="section section-padding customer-review-area">
           <div className="container">
             <div className="row">
               <div className="col-lg-8">
                 <SectionTitle
                   subtitle=""
-                  title="Recommendations from people I've worked with at Doorcast"
+                  title="People I've worked with at Doorcast"
                   textAlignment="heading-left"
                   textColor=""
                 />
@@ -58,7 +100,7 @@ const Testimonials = () => {
               <div className="col-lg-8">
                 <SectionTitle
                   subtitle=""
-                  title="Recommendations from people I've worked with at American Express"
+                  title="People I've worked with at American Express"
                   description=""
                   textAlignment="heading-light-left"
                   textColor=""
@@ -98,7 +140,7 @@ const Testimonials = () => {
               <div className="col-lg-8">
                 <SectionTitle
                   subtitle=""
-                  title="Recommendations From People I've Worked With Elsewhere"
+                  title="People I've Worked With Elsewhere"
                   description="These are recommendations from people I've worked with at other companies"
                   textAlignment="heading-left"
                   textColor=""

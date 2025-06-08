@@ -88,5 +88,23 @@
     "authorimg": "/images/testimonial/vince.jpg",
     "authorname": "Vincent Buongiovanni",
     "authordesig": "Senior Software Engineer"
+  },
+  {
+    "id": 11,
+    "fromtext": "Capital One",
+    "from": "/images/icon/doorcast-Logo.png",
+    "description": "“I had the pleasure of working with Garrett on a development team at Capital One. He's a sharp and dependable engineer who consistently brings thoughtful solutions to the table. Whether he’s diving into complex backend logic or collaborating on frontend features, Garrett always approaches challenges with a calm, solutions-oriented mindset. \n\n His ability to quickly learn new technologies and his collaborative nature made him a key contributor on our team. I would happily recommend Garrett to any engineering team looking for someone who’s reliable, skilled, and easy to work with. \n”",
+    "authorimg": "/images/testimonial/testimonial-1.png",
+    "authorname": "John Baldecchi",
+    "authordesig": "Full Stack Software Engineer"
+  },
+  {
+    "id": 12,
+    "fromtext": "Reef",
+    "from": "/images/icon/doorcast-Logo.png",
+    "description": "“We hired Garrett to build an AI automation system for our recruiting company and he smashed it! Super quick delivery, took tons of initiative, and just 'got it' right away. His suggestions were spot-on and really improved our original idea. Love that he explained everything clearly and gave us a roadmap for the future. Would highly recommend Garrett to anyone who needs both a 'thinker' and a 'doer'. \n”",
+    "authorimg": "/images/testimonial/robert_neadner.jpg",
+    "authorname": "Robert Neander",
+    "authordesig": "Founder - Recruit With Reef"
   }
 ]
